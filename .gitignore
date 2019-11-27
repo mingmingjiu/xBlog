@@ -1,4 +1,7 @@
+
+# IntelliJ project files
 .idea
 .gitignore
-.idea/inspectionProfiles/
-.idea/workspace.xml
+*.iml
+out
+gen
